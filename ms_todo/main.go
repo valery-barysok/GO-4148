@@ -1,4 +1,4 @@
-package ms_todo
+package main
 
 //import "lib/dep"
 
